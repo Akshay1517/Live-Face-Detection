@@ -1,1 +1,3 @@
 # Live-Face-Detection
+
+For this only you need to install opencv in python and run the code.....
